@@ -51,3 +51,7 @@ PharmaX 株式会社（旧 YOJO Technologies）：2019 年 12 月〜2024 年 11 
 - [オンライン薬局の開発担う‐薬剤師からエンジニアへ転身　 YOJO Technologies 　加藤智之さん](https://ynps.yakuji.co.jp/8926.html)
 - [「薬剤師 × Web エンジニア」加藤智之インタビュー](https://www.38-8931.com/pharma-labo/column/study/pillars_03.php)
 - [月刊誌「ドラッグマガジン」 薬剤師の複業](http://www.drugmagazine.co.jp/dm_bn2005.html)
+
+### 著書
+
+Rust をテーマにした本が出版される予定です。
