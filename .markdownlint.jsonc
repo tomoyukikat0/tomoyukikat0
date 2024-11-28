@@ -1,5 +1,6 @@
 {
   "MD041": false, // true: ファイルの最初の行は、トップレベルの見出しにする
   "MD013": false,
-  "MD033": false
+  "MD033": false,
+  "MD024": false
 }
