@@ -11,6 +11,18 @@
 | 得意技術 | Ruby on Rails |
 | 業務経験 | Ruby on Rails, React, Next.js, JavaScript, TypeScript, Python, Rust, MySQL, PostgreSQL, Docker, terraform, Google Cloud, gRPC, LangChain, LangSmith, LangGraph, PromptLayer etc|
 
+## 【資格】
+
+- 基本情報技術者
+- 応用情報技術者
+- TOEIC 905 点
+- 全国通訳案内士免許(英語)
+- 薬剤師免許
+- 普通自動車免許
+
+| 得意技術 | Ruby on Rails |
+| 業務経験 | Ruby on Rails, React, Next.js, JavaScript, TypeScript, Python, Rust, MySQL, PostgreSQL, Docker, terraform, Google Cloud, gRPC, LangChain, LangSmith, LangGraph, PromptLayer etc|
+
 ## 【職務経歴詳細】
 
 PharmaX 株式会社（旧 YOJO Technologies）：2019 年 12 月〜2024 年 11 月
