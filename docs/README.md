@@ -22,7 +22,7 @@ PharmaX 株式会社（旧 YOJO Technologies）：2019 年 12 月〜2024 年 11 
 
 ### 個人開発
 
-- [https://pharma-works.com/](https://pharma-works.com/)
+- [Pharma Works](https://pharma-works.com/)
   - 薬剤師向けのサービスを開発・運営しています。バックエンドを Ruby on Rails、フロントエンドを Next.js、インフラは Render.com と Vercel を使い、一部 Google Cloud を使って開発しました。ユニークユーザーは月間 4000 人くらいです。
 
 ### 登壇
