@@ -26,6 +26,7 @@ PharmaX 株式会社（旧 YOJO Technologies）：2019 年 12 月〜2024 年 11 
 
 - 事業内容: オンライン薬局の開発・運営
 - 設立: 2018 年 12 月
+- [https://www.pharma-x.co.jp/](https://www.pharma-x.co.jp/)
 
 ### 2024 年 4 月〜10 月
 
